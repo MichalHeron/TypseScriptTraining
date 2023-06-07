@@ -1,5 +1,5 @@
 {
-  "name": "TS_Intro",
+  "name": "tsintro",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^1.19.1",
+    "nodemon": "^2.0.22",
     "ts-node": "^8.3.0",
     "typescript": "^3.5.3"
   }
