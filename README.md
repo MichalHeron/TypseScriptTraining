@@ -1,0 +1,1 @@
+# cwiczenie i sciagawaka typescripta
