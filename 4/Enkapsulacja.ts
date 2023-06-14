@@ -1,4 +1,5 @@
 {
+	//inaczej hermetyzacja
 	// jedna z podstawowych zasad programowania obiektowego - jak najmniej danych o danym obiekcie wystawiac na zewnatrz (np. do odcytu, modyfikacji)
 	// lepiej domyslnie ustawiac na private, akiedy bedzie potrzbea zostawiac na public
 	class Email {
